@@ -8,13 +8,19 @@ I am interested in details about this topic, so if I find anything interesting t
 ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
+
 The calculation of Sales and Profit of Products by Customer and City were performed. The quantity of products, where were delivered to their destinations, were also calculated.
 Sales against Profit by Product was demonstrated.
+
 The ranking of Sales of Products by City, by Customer and by Category were also demonstrated.
+
 The quantity of sold Products by Customer, which were either greater or lower than average price, was also calculated.
+
 The calculation for year over year and month over month for Sales of Products and Profit of Products based on the percentage growth were also conducted
+
 An in-depth analysis was also done to demonstrate the total sales of products and total profit of products by QTD and YTD.
- The profit of the product by category was also demonstrated. The total sales and total profit for the ship mode and the segment were calculated.
+
+The profit of the product by category was also demonstrated. The total sales and total profit for the ship mode and the segment were calculated.
 Last but not least, the total sales and the total profit were performed by Order Date and Ship Date.
 
 
