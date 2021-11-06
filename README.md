@@ -1,11 +1,11 @@
 # PowerBI_Project_4_Sales_and_Profit
 
-INTRODUCTION
+# INTRODUCTION
 
 The request was submitted to analyze Sales and Profit of Company in 2014 and 2017 years regarding products, regions, segments, and ship mode.
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 
-ANALYSIS
+# ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
 
@@ -24,7 +24,7 @@ The profit of the product by category was also demonstrated. The total sales and
 Last but not least, the total sales and the total profit were performed by Order Date and Ship Date.
 
 
-MAIN CONCLUSIONS
+# MAIN CONCLUSIONS
 
 1.	New York City generated the greatest sales of product (256368$) in 2014 and 2017 years.
 2.	Technology Category generated the greatest sales of product (836154$) in 2014 and 2017 years.
